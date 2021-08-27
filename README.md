@@ -6,7 +6,7 @@ This repository contains projects of computer vision tasks implemented with __*C
 <div align="center">
 <table> 
   <tr>
-    <td> <img src="/Images/opencv_logo.png" width="150" height="125" alt="opencv_logo" /> </td>
+    <td> <img src="/Images/opencv_logo.png" width="125" height="125" alt="opencv_logo" /> </td>
     <td> <img src="/Images/pcl_logo.png" width="150" height="150" alt="pcl_logo" /> </td>
     <td> <img src="/Images/cmake_logo.png" width="200" height="80" alt="cmake_logo" /></td>
   </tr>
@@ -44,7 +44,7 @@ This repository contains projects of computer vision tasks implemented with __*C
 <div align="center">
 <table> 
   <tr>
-    <td> <img src="/Images/kitti_clouds_viewer.gif" width="150" height="125" alt="kitti_clouds_viewer" /> </td>
+    <td> <img src="/Images/kitti_clouds_viewer.gif" width="600" height="400" alt="kitti_clouds_viewer" /> </td>
   </tr>
 </table>
 </div>
@@ -64,7 +64,7 @@ This repository contains projects of computer vision tasks implemented with __*C
 <div align="center">
 <table> 
   <tr>
-    <td> <img src="/Images/stereo2cloud.gif" width="150" height="125" alt="stereo2cloud" /> </td>
+    <td> <img src="/Images/stereo2cloud.gif" width="800" height="400" alt="stereo2cloud" /> </td>
   </tr>
 </table>
 </div>
@@ -285,7 +285,7 @@ This repository contains projects of computer vision tasks implemented with __*C
 <div align="center">
 <table> 
   <tr>
-    <td> <img src="/Images/ucoslam_monocular_slam.gif" width="150" height="125" alt="ucoslam_monocular_slam" /> </td>
+    <td> <img src="/Images/ucoslam_monocular_slam.gif" width="800" height="400" alt="ucoslam_monocular_slam" /> </td>
   </tr>
 </table>
 </div>
@@ -313,7 +313,7 @@ This repository contains projects of computer vision tasks implemented with __*C
 <div align="center">
 <table> 
   <tr>
-    <td> <img src="/Images/ucoslam_stereo_slam.gif" width="150" height="125" alt="ucoslam_stereo_slam" /> </td>
+    <td> <img src="/Images/ucoslam_stereo_slam.gif" width="800" height="400" alt="ucoslam_stereo_slam" /> </td>
   </tr>
 </table>
 </div>
