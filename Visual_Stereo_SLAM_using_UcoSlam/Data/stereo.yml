@@ -1,0 +1,43 @@
+%YAML:1.0
+---
+image_width: 1226
+image_height : 370
+M1: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: f
+   data: [ 7.07091248e+02, 0., 6.01887329e+02, 0., 7.07091187e+02,
+       1.83110397e+02, 0., 0., 1. ]
+M2: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: f
+   data: [ 7.07091248e+02, 0., 6.01887329e+02, 0., 7.07091187e+02,
+       1.83110397e+02, 0., 0., 1. ]
+D1: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: f
+   data: [ 0., 0., 0., 0., 0. ]
+D2: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: f
+   data: [ 0., 0., 0., 0., 0. ]
+P1: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: f
+   data: [ 7.07091248e+02, 0., 6.01887329e+02, 0., 7.07091187e+02,
+       1.83110397e+02, 0., 0., 1. ]
+P2: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: f
+   data: [ 7.07091248e+02, 0., 6.01887329e+02, 0., 7.07091187e+02,
+       1.83110397e+02, 0., 0., 1. ]
+T: !!opencv-matrix
+   rows: 1
+   cols: 3
+   dt: f
+   data: [ 5.37150614e-01, 0., 0. ]
